@@ -1,0 +1,6 @@
+.intro {
+  padding: 114px 442px 92px 148px;
+  max-width: 690px;
+  display: flex;
+  flex-direction: column;
+}
