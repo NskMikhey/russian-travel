@@ -1,0 +1,15 @@
+.cover__link {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 740px;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  color:#FFFFFF;
+  text-decoration: none;
+  position:relative;
+}
