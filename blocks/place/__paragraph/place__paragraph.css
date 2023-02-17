@@ -1,0 +1,9 @@
+.place__paragraph {
+  margin: 0 0 26px;
+  font-size: 18px;
+  line-height: 29px;
+}
+
+.place__paragraph:last-of-type {
+  margin: 0;
+}
