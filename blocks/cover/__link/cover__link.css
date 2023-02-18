@@ -20,7 +20,6 @@
   height: 100%;
   position:absolute;
   content: "";
-  background-color: #2A2C2F;
   opacity: .3;
   transition: .3s;
 }
@@ -28,3 +27,12 @@
 .cover__link:hover:before {
   opacity: 0.8;
 }
+
+@media screen and (max-width: 1279px) {
+  .cover__link {
+    max-width: 100vw;
+    min-height: calc(100vw / 1.6);
+    /*2048px/1280px = 1.6*/
+  }
+}
+
