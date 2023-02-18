@@ -3,21 +3,21 @@
   height: auto;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .lead__image {
     max-width: 928px;
     max-height: 580px;
   }
 }
 
- @media screen and (max-width: 927px) {
+ @media screen and (max-width: 767px) {
   .lead__image {
     max-width: 100%;
     max-height: 480px;
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 340px) {
   .lead__image {
     max-height: 200px;
   }
