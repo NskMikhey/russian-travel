@@ -1,7 +1,7 @@
 # Путешествие по России
 #### Проектная работа Адаптивная вёрстка и работа с макетом
 ###### Ссылка на курс - https://practicum.yandex.ru/web/
-###### Cсылка на GitHub - https://github.com/NskMikhey/russian-travel/index.html 
+###### Cсылка на GitHub - https://nskmikhey.github.io/russian-travel/
 
   Проектная работа по итогам прохождения первых трёх спринтов на курсе по Веб-разработке.
 
