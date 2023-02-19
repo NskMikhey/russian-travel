@@ -3,3 +3,15 @@
   margin: 0 auto;
   padding-bottom: 92px;
 }
+
+@media screen and (max-width: 1023px) {
+  .cover {
+    padding-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover {
+    padding-bottom: 64px;
+  }
+}

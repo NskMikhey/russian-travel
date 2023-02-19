@@ -4,7 +4,7 @@
   font-size: 24px;
   font-weight: 400;
   color: #FFFFFF;
-  transition: .2s;
+  transition: .3s ease-in-out;
 }
 
 .header__lang-link:hover {

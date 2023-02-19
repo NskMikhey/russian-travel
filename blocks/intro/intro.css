@@ -2,15 +2,16 @@
   padding-top: 92px;
   padding-left: 148px;
   max-width: 690px;
+  
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1110px) {
   .intro {
     padding-left: 48px;
   }
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 879px) {
   .intro {
     padding: 88px 0 0 24px;
     max-width: 720px;

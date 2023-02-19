@@ -7,14 +7,14 @@
   padding-top: 92px;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1110px) {
   .photo-grid {
     gap: 14px;
     max-width: 928px;
   }
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 879px) {
   .photo-grid {
     padding-top: 88px;
     max-width: 720px;
