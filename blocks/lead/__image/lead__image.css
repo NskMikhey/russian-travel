@@ -17,8 +17,3 @@
   }
 }
 
-@media screen and (max-width: 340px) {
-  .lead__image {
-    max-height: 200px;
-  }
-}
